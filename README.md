@@ -6,7 +6,13 @@ A movie library of some of my favorite movies!
 
 you can see it here https://codepen.io/sandy10/full/EybWkd/
 
-# Instrucitons to Run Project
+# Technologie Used
+- HTML
+- CSS
+- Python
+- Bootstrap
+
+# Instructions to Run Project
 
 To generate the HTML page for this site, take the following steps:
 
